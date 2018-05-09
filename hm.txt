@@ -1,0 +1,11 @@
+from
+come
+done
+flew
+came
+undo
+redo
+edit
+back
+file
+help
